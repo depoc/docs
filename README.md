@@ -4,7 +4,8 @@ A comprehensive management system built by a business owner, tailored for small 
 
 This project took shape in response to a specific need in my last brick-and-mortar store. After closing the business, I continued developing and refining the system. We're currently buinding:
 
-- ▶️ **Depox** – Django monolith that consolidates frontend and backend in a single codebase.
+- **api** – Django RESTful api.
+- **depopy** – Depoc Python library.
 
 This repository serves as the **hub for ecosystem-wide documentation**, including architecture, development standards, and shared tooling. For system-specific docs, refer to each project's repo.
 
@@ -15,8 +16,9 @@ This repository serves as the **hub for ecosystem-wide documentation**, includin
 
 ## Core Repositories
 
-- [Depox](https://github.com/depoc/depox)
+- [api](https://github.com/depoc/api)
+- [api](https://github.com/depoc/depopy)
 
 ---
 
-*Last updated: 2026-01-10*
+*Last updated: 2026-01-13*
