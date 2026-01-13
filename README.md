@@ -17,7 +17,7 @@ This repository serves as the **hub for ecosystem-wide documentation**, includin
 ## Core Repositories
 
 - [api](https://github.com/depoc/api)
-- [api](https://github.com/depoc/depopy)
+- [depopy](https://github.com/depoc/depopy)
 
 ---
 
